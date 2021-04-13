@@ -100,7 +100,7 @@ if(isset($_POST['submit'])) {
           <div class="img"><img src="service/beauty.jpg" alt=""></div>
           <div class="content">
             <div class="title">Beauty Products</div>
-            <div class="sub-title">Graphic Designer</div>
+            <div class="sub-title"></div>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
             <div class="btn">
               <button>Read more</button>
@@ -111,7 +111,7 @@ if(isset($_POST['submit'])) {
             <div class="img"><img src="service/cut.jpg" alt=""></div>
             <div class="content">
               <div class="title">Hair cut</div>
-              <div class="sub-title">Graphic Designer</div>
+              <div class="sub-title"></div>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
               <div class="btn">
                 <button>Read more</button>
@@ -122,7 +122,7 @@ if(isset($_POST['submit'])) {
           <div class="img"><img src="service/spa.jpg" alt=""></div>
           <div class="content">
             <div class="title">Spa services</div>
-            <div class="sub-title">Web Developer</div>
+            <div class="sub-title"></div>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.</p>
             <div class="btn">
               <button>Read more</button>
